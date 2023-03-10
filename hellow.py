@@ -1,2 +1,2 @@
 print("hellow world")
-print(3*4)
+# 컴퓨터공학부 202200976 김지원 
