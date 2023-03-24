@@ -1,4 +1,4 @@
-print("hello hufs")
+print("hello hufs!!!!")
 # hi 를 6번 출력
 for i in range(6):
   print("hi", end = "")
